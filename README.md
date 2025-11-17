@@ -56,7 +56,7 @@ Here are some highlighted projects & contributions:
 
 - **LinkedIn**: [Muhammad Ahsan](https://www.linkedin.com/in/muhammad-ahsan-b26317296/)  
 - **Email**: idahsanali@gmail.com  
-- **GitHub**: [github.com/adeel-iqbal](https://github.com/MAhsanOfficiala)
+- **GitHub**: [https://github.com/MAhsanOfficiala](https://github.com/MAhsanOfficiala)
 
 ---
 
