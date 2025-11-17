@@ -1,6 +1,6 @@
 # Muhammad Ahsan 👋
 
-**AI Developer • Software Engineer • Computer Science Student**  
+**AI Developer • Data Scienctist • Agentic AI Developer**  
 Karachi, Pakistan
 
 ---
