@@ -8,15 +8,16 @@ Karachi, Pakistan
 ## 👨‍💻 About Me  
 I am a driven AI developer with a strong foundation in Data Science and Agentic AI Development. Passionate about building intelligent systems, scalable applications, and contributing to open-source projects.
 
-- 🔍 Currently working on:  
+- 🔍 Currently working on:
+  - - Agentic AI (OpenAI Agent SDK, N8n , Agent Kit, MCP) 
   - Machine Learning / Deep Learning models (Python, TensorFlow / PyTorch)
   - NLP
   - Computer Vision 
-  - Web applications (full-stack)  
+  - Web applications (full-stack)
   - Data pipelines & analytics  
 - 🌱 Actively learning:  
   - MLOps and model deployment (Docker, Kubernetes)  
-  - Cloud-native architectures (AWS / GCP)  
+  - Cloud-native AI (AWS / Kubernetes,Docker,Kafka)  
   - Advanced neural networks (Transformers, LLMs)
 
 ---
@@ -37,24 +38,25 @@ Here are some highlighted projects & contributions:
 | Category | Tools & Technologies |
 |---|---|
 | **Programming** | Python, JavaScript / TypeScript |
+| **Agentic AI | OpenAI Agent SDK , MCP , AI Native Development**
 | **AI / ML** | TensorFlow, PyTorch, scikit-learn |
 | **Backend** | Node.js, Flask, FastAPI |
 | **Frontend** | React.js, Next.js, HTML/CSS |
 | **Databases** | MongoDB, PostgreSQL, MySQL |
-| **DevOps / Cloud** | Docker, GitHub Actions, AWS (EC2, S3) |
+| **Cloud Native** | Docker, GitHub Actions, AWS (EC2, S3) , Kubernetes|
 
 ---
 
 ## 🎓 Education
 
 - **Intermediate in Computer Science** — [DJ Govt Science College]  
-- Relevant coursework: Data Structures, Algorithms, Machine Learning, Distributed Systems
+- Relevant coursework: C Language , Office and Basic Knowledge of Archetecture
 
 ---
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [Muhammad Ahsan](https://www.linkedin.com/in/muhammad-ahsan-b26317296/)  
+- **LinkedIn**: [Muhammad Ahsan](https://www.linkedin.com/in/muhammad-ahsan-technologyexpert/)  
 - **Email**: idahsanali@gmail.com  
 - **GitHub**: [https://github.com/MAhsanOfficiala](https://github.com/MAhsanOfficiala)
 
